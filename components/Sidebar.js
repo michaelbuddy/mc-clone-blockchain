@@ -124,7 +124,7 @@ const {
                     Profile
                 </div>
 
-                <Link href='/history'>
+                <Link href='/History'>
                     <div className={styles.menuItem}>
                     <AiOutlineHistory/>
                     Transcation history
